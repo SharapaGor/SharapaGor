@@ -1,7 +1,11 @@
-## Hi there 👋
+## *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚
+☽◯☾ Infosec enthusisat
 
+⚜ Fullstack developer
+
+‧₊˚🖇️✩ ₊˚🎧⊹♡ Feel free to reach out - collaboration over competition - together we achieve more
 <!--
-**SharapaGor/SharapaGor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zaakirio/zaakirio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
